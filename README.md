@@ -1,10 +1,14 @@
-**Hackathon--TechKnights_ScoringApp**
+# Hackathon--TechKnights_ScoringApp
 
 ‘Scoring Application’ can be used by future judges of Hackathon events where judges will be able to score the teams more efficiently and hassle-free.
 
 This ‘Scoring Application’ is user friendly and simple to score and manage the teams participating in Hackathon.
 
-There are 2 users: Judges Admin Both Judge and Admin can login to this scoring web-application to have different access rights to the web application.
+There are 2 users:
+				Judges
+				Admin
+Both Judge and Admin can login to this scoring web-application to have different access rights to the web application.
+
 
 ##Roles of Judge:
 
@@ -22,6 +26,7 @@ There are 2 users: Judges Admin Both Judge and Admin can login to this scoring w
 
 	Judge can have Bar-Chart view of the final result.
 
+
 ##Roles of Admin:
 
 	Admin can Login into the web-application.
@@ -33,10 +38,11 @@ There are 2 users: Judges Admin Both Judge and Admin can login to this scoring w
 	Admin can have the Bar-chart view of the final result.
 
 ##Links:
-
-Youtube URL : https://youtu.be/vYxmxtUYr6c
-
-Presentation URL : https://www.dropbox.com/s/ddok396ivxfon0j/hackathon%20ppt.pptx?dl=0
-
-Github URL : https://github.com/PranathiGopidi/Hackathon--TechKnights_ScoringApp
-
+ 
+ Youtube URL : https://youtu.be/vYxmxtUYr6c
+ 
+ Presentation URL : https://www.dropbox.com/s/ddok396ivxfon0j/hackathon%20ppt.pptx?dl=0
+ 
+ Github URL :  https://github.com/GayathreeIyer/Hackathon--TechKnights_ScoringApp
+ 
+ Wiki Page URL :  https://github.com/GayathreeIyer/Hackathon--TechKnights_ScoringApp/wiki/Tech-Knights::Scoring-Application
