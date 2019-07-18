@@ -1,4 +1,5 @@
-Hackathon--TechKnights_ScoringApp
+**Hackathon--TechKnights_ScoringApp**
+
 ‘Scoring Application’ can be used by future judges of Hackathon events where judges will be able to score the teams more efficiently and hassle-free.
 
 This ‘Scoring Application’ is user friendly and simple to score and manage the teams participating in Hackathon.
