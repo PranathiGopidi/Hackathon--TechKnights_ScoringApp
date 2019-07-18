@@ -40,4 +40,3 @@ Presentation URL : https://www.dropbox.com/s/ddok396ivxfon0j/hackathon%20ppt.ppt
 
 Github URL : https://github.com/PranathiGopidi/Hackathon--TechKnights_ScoringApp
 
-Wiki Page URL : https://github.com/PranathiGopidi/Hackathon--TechKnights_ScoringApp/wiki/Tech-Knights::Scoring-Application
